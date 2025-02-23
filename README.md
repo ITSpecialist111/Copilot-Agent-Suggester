@@ -23,6 +23,9 @@
 
 This React-based project is a proof of concept for an innovative user interface designed to streamline interactions with AI agents, particularly Copilot Studio Agents, in the context of construction bidding. The goal is to provide an intuitive and efficient way to select and engage agents tailored to specific tasks, paving the way for agentic AI and Multi-Agent Workflows.
 
+![image](https://github.com/user-attachments/assets/5a64ef4b-643f-472d-a28e-3b2c446af608)
+
+
 ## Features
 
 *   **Agent Selection:** Easily browse and select AI agents based on their capabilities.
